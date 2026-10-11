@@ -11,4 +11,4 @@
 유한대학교 게임콘텐츠학과 · 2026년 2월 졸업  
 연락: [haejoonk0821@naver.com](mailto:haejoonk0821@naver.com)
 
-기존 C·C++·Python·웹 저장소에는 수업과 개인 학습 과정이 남아 있습니다. QA 경험은 위 포트폴리오 저장소에 정리했습니다.
+
